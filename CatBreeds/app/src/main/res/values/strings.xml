@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CatBreeds</string>
+    <string name="Title">CATS!</string>
+    <string name="search_breed">Search Breed</string>
+    <string name="Search">SEARCH</string>
+    <string name="breedHint">Write Breed here..</string>
+    <string name="breed_result">breed result</string>
+    <string name="showdescription">showDescription</string>
+    <string name="search">Search</string>
+    <string name="favourite">favourite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourite_cats">FAVOURITE CATS!!!</string>
+</resources>
